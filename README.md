@@ -2,6 +2,8 @@
 
 ## Description 
 
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/327/flag-united-states_1f1fa-1f1f8.png" width="40"  />
+
 I've been studying Node.js for some time, so I created this API to improve my knowledge of `Node.js `  and `Express.js`. I didn't provide a Frontend application, because my focus was only on the server-side.
 
 While coding, I noticed that with just one GET request the API became quite complex. I learned a lot using the filters!
@@ -14,7 +16,9 @@ The API is simple, but it works well!
 
 
 
-<PT-BR>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/327/flag-brazil_1f1e7-1f1f7.png" width="40"  />
+
+
 
 Estou estudando Node.js há algum tempo, então criei essa API para aprimorar meus conhecimentos sobre `Node.js ` e `Express.js`. Eu não forneci um aplicativo Frontend, porque meu foco estava apenas no lado do servidor.
 
